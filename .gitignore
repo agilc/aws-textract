@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.mo
+/venv
+.env
+.DS_Store
+._*
+local_settings.py
+services/mysql-db/data/
+services/sentry/data/
+.vscode/
+.idea/
+geo
+geo/
+db.sqlite3
